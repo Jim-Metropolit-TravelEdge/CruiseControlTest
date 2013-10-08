@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TENew.Managers
+namespace TENew.Controllers
 {
-    public class AvailabilityManager
+    public class AC
     {
-
     }
 }

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TENew.Controllers
+namespace TENew.Managers
 {
-    public class AvailabilityController
+    public class AM
     {
+
     }
 }
